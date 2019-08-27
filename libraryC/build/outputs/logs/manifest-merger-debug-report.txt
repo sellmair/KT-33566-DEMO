@@ -1,9 +1,0 @@
--- Merging decision tree log ---
-manifest
-ADDED from /Users/sellmair/Sources/qbs/mpp-demo/libraryC/src/main/AndroidManifest.xml:1:1-52
-INJECTED from /Users/sellmair/Sources/qbs/mpp-demo/libraryC/src/main/AndroidManifest.xml:1:1-52
-INJECTED from /Users/sellmair/Sources/qbs/mpp-demo/libraryC/src/main/AndroidManifest.xml:1:1-52
-	package
-		ADDED from /Users/sellmair/Sources/qbs/mpp-demo/libraryC/src/main/AndroidManifest.xml:1:11-50
-		INJECTED from /Users/sellmair/Sources/qbs/mpp-demo/libraryC/src/main/AndroidManifest.xml
-		INJECTED from /Users/sellmair/Sources/qbs/mpp-demo/libraryC/src/main/AndroidManifest.xml

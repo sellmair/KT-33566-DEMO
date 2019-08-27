@@ -8,7 +8,6 @@ android {
 }
 
 kotlin {
-    iosX64("ios")
     android("android")
 
     sourceSets {
@@ -19,11 +18,6 @@ kotlin {
 
         getByName("androidMain").dependencies {
             implementation(kotlin("stdlib-jdk8"))
-        }
-
-        getByName("androidTest").dependencies {
-            implementation(kotlin("test"))
-            implementation(kotlin("test-junit"))
         }
     }
 }

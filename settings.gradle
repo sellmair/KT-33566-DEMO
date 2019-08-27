@@ -1,5 +1,3 @@
 include ":libraryA"
 include ":libraryB"
-include ':libraryC'
-include ':libraryD'
 include ':utils'
