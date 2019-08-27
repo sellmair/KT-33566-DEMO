@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/libraryA/libraryA.iml" filepath="$PROJECT_DIR$/libraryA/libraryA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryB/libraryB.iml" filepath="$PROJECT_DIR$/libraryB/libraryB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryC/libraryC.iml" filepath="$PROJECT_DIR$/libraryC/libraryC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryD/libraryD.iml" filepath="$PROJECT_DIR$/libraryD/libraryD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mpp-demo.iml" filepath="$PROJECT_DIR$/.idea/modules/mpp-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryA/mpp-demo.libraryA.commonMain.iml" filepath="$PROJECT_DIR$/libraryA/mpp-demo.libraryA.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryA/mpp-demo.libraryA.commonTest.iml" filepath="$PROJECT_DIR$/libraryA/mpp-demo.libraryA.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryA/mpp-demo.libraryA.iosMain.iml" filepath="$PROJECT_DIR$/libraryA/mpp-demo.libraryA.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryA/mpp-demo.libraryA.iosTest.iml" filepath="$PROJECT_DIR$/libraryA/mpp-demo.libraryA.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryB/mpp-demo.libraryB.commonMain.iml" filepath="$PROJECT_DIR$/libraryB/mpp-demo.libraryB.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryB/mpp-demo.libraryB.commonTest.iml" filepath="$PROJECT_DIR$/libraryB/mpp-demo.libraryB.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryB/mpp-demo.libraryB.iosMain.iml" filepath="$PROJECT_DIR$/libraryB/mpp-demo.libraryB.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryB/mpp-demo.libraryB.iosTest.iml" filepath="$PROJECT_DIR$/libraryB/mpp-demo.libraryB.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryC/mpp-demo.libraryC.commonMain.iml" filepath="$PROJECT_DIR$/libraryC/mpp-demo.libraryC.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryC/mpp-demo.libraryC.commonTest.iml" filepath="$PROJECT_DIR$/libraryC/mpp-demo.libraryC.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryC/mpp-demo.libraryC.iosMain.iml" filepath="$PROJECT_DIR$/libraryC/mpp-demo.libraryC.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libraryC/mpp-demo.libraryC.iosTest.iml" filepath="$PROJECT_DIR$/libraryC/mpp-demo.libraryC.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/mpp-demo.utils.commonMain.iml" filepath="$PROJECT_DIR$/utils/mpp-demo.utils.commonMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/mpp-demo.utils.commonTest.iml" filepath="$PROJECT_DIR$/utils/mpp-demo.utils.commonTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/mpp-demo.utils.iosMain.iml" filepath="$PROJECT_DIR$/utils/mpp-demo.utils.iosMain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/mpp-demo.utils.iosTest.iml" filepath="$PROJECT_DIR$/utils/mpp-demo.utils.iosTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/utils/utils.iml" filepath="$PROJECT_DIR$/utils/utils.iml" />
+    </modules>
+  </component>
+</project>
