@@ -33,20 +33,26 @@
     <content url="file://$MODULE_DIR$/src/iosTest/resources" />
     <orderEntry type="jdk" jdkName="Kotlin SDK" jdkType="KotlinSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - zlib [ios_x64]" level="project" />
+    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
+    <orderEntry type="module" module-name="mpp-demo.libraryA.iosMain" scope="TEST" />
+    <orderEntry type="module" module-name="mpp-demo.libraryA.commonMain" scope="TEST" />
+    <orderEntry type="module" module-name="mpp-demo.libraryA.commonTest" scope="TEST" production-on-test="" />
+    <orderEntry type="module" module-name="mpp-demo.utils.commonMain" scope="TEST" />
+    <orderEntry type="module" module-name="mpp-demo.utils.iosMain" scope="TEST" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - WebKit [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - WatchKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - zlib [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - BusinessChat [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - WatchConnectivity [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Vision [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - VideoToolbox [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - VideoSubscriberAccount [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CoreGraphics [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - UserNotificationsUI [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - UserNotifications [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - UIKit [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Twitter [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - SystemConfiguration [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - StoreKit [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - SpriteKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - HomeKit [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Speech [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Social [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Security [ios_x64]" level="project" />
@@ -60,8 +66,8 @@
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - PhotosUI [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Photos [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - PDFKit [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - PassKit [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - OpenGLESCommon [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - WatchKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - SpriteKit [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - OpenGLES3 [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - OpenGLES2 [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - OpenGLES [ios_x64]" level="project" />
@@ -89,11 +95,11 @@
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - IntentsUI [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Intents [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - ImageIO [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - IdentityLookupUI [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - IdentityLookup [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - VideoSubscriberAccount [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - OpenGLESCommon [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - iconv [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - iAd [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - HomeKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - ARKit [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - HealthKitUI [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - HealthKit [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - GSS [ios_x64]" level="project" />
@@ -122,7 +128,7 @@
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CoreMedia [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CoreLocation [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CoreImage [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CoreGraphics [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Accounts [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CoreFoundation [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CoreData [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CoreBluetooth [ios_x64]" level="project" />
@@ -136,26 +142,20 @@
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CFNetwork [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CarPlay [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - CallKit [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - BusinessChat [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - IdentityLookupUI [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - builtin [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - AVKit [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - AVFoundation [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - AuthenticationServices [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - AudioToolbox [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - AssetsLibrary [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - ARKit [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - PassKit [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - AdSupport [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - AddressBookUI [ios_x64]" level="project" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - AddressBook [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Accounts [ios_x64]" level="project" />
-    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Accelerate [ios_x64]" level="project" />
-    <orderEntry type="module" module-name="mpp-demo.libraryA.commonTest" scope="TEST" production-on-test="" />
-    <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
-    <orderEntry type="module" module-name="mpp-demo.libraryA.iosMain" scope="TEST" />
-    <orderEntry type="module" module-name="mpp-demo.libraryA.commonMain" scope="TEST" />
     <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - stdlib" level="project" />
-    <orderEntry type="module" module-name="mpp-demo.utils.iosMain" scope="TEST" />
-    <orderEntry type="module" module-name="mpp-demo.utils.commonMain" scope="TEST" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - IdentityLookup [ios_x64]" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Kotlin/Native 1.3.50 - Accelerate [ios_x64]" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="mpp-demo.libraryA.iosMain" />
 </module>

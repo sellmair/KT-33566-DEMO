@@ -1,5 +1,5 @@
 package io.sellmair.mppdemo.library.a
 
-object AndroidTestLibraryA {
+object LibraryAAndroidTest {
     fun work() = print("work")
 }

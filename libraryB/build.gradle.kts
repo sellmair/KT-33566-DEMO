@@ -13,7 +13,7 @@ kotlin {
     sourceSets {
         commonMain.get().dependencies {
             implementation(kotlin("stdlib-common"))
-            implementation(project(":utils"))
+            //implementation(project(":utils"))
             implementation(project(":libraryA"))
         }
 
