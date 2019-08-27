@@ -8,16 +8,36 @@ android {
 }
 
 kotlin {
-    android("android")
+    android()
     sourceSets {
+        
+        // Version 1: Cannot resolve type `LibraryA` in `LibraryBAndroidTest
         commonMain.get().dependencies {
             implementation(kotlin("stdlib-common"))
             implementation(project(":utils"))
             implementation(project(":libraryA"))
         }
 
-        getByName("androidMain").dependencies {
-            implementation(kotlin("stdlib-jdk8"))
+
+
+        /*
+        // Version 2: `LibraryA` can be resolved for in `LibraryBAndroidTest
+        commonMain.get().dependencies {
+            implementation(kotlin("stdlib-common"))
+            //implementation(project(":utils"))
+            implementation(project(":libraryA"))
         }
+         */
+
+
+        /*
+        // Version 3: `LibraryA` can be resolved for in `LibraryBAndroidTest
+        commonMain.get().dependencies {
+            implementation(kotlin("stdlib-common"))
+            implementation(project(":libraryA"))
+            implementation(project(":utils"))
+        }
+        */
+        
     }
 }

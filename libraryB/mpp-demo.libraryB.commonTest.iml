@@ -37,7 +37,6 @@
     <orderEntry type="module" module-name="mpp-demo.libraryB.commonMain" scope="TEST" />
     <orderEntry type="library" scope="TEST" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
     <orderEntry type="module" module-name="mpp-demo.libraryA.commonMain" scope="TEST" />
-    <orderEntry type="module" module-name="mpp-demo.utils.commonMain" scope="TEST" />
   </component>
   <component name="TestModuleProperties" production-module="mpp-demo.libraryB.commonMain" />
 </module>

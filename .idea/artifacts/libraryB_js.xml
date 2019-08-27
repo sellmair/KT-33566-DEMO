@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="libraryB-js">
+    <output-path>$PROJECT_DIR$/libraryB/build/libs</output-path>
+    <root id="archive" name="libraryB-js.jar">
+      <element id="module-output" name="mpp-demo.libraryB.jsMain" />
+    </root>
+  </artifact>
+</component>
